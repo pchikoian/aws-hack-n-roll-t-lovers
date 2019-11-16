@@ -1,0 +1,68 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "",
+  "backendFolderName": "",
+  "certificateExceptions": [],
+  "extensionViews": [],
+  "frontendCommand": "npm run start",
+  "frontendFolderName": "bot-commander",
+  "manifest": {
+    "anchor": "component",
+    "assetUrls": [],
+    "authorName": "",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "https://localhost:8080/config.html",
+    "configurationLocation": "none",
+    "description": "",
+    "eulaTosUrl": "",
+    "hasChatSupport": false,
+    "iconUrl": "",
+    "iconUrls": {},
+    "id": "wl9sxukqhh8uqvcf5y6m8qdqsjbkg0",
+    "installationCount": -42,
+    "liveConfigUrl": "",
+    "name": "aws-hack'n'roll-t-lovers",
+    "panelHeight": 0,
+    "privacyPolicyUrl": "",
+    "requestIdentityLink": false,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [],
+    "sku": "",
+    "state": "Testing",
+    "subscriptionsSupportLevel": "none",
+    "summary": "",
+    "supportEmail": "",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "",
+    "viewerUrl": "",
+    "viewerUrls": {
+      "component": "https://localhost:8080/video_component.html"
+    },
+    "views": {
+      "component": {
+        "aspectHeight": 0,
+        "aspectRatioX": 300,
+        "aspectRatioY": 200,
+        "aspectWidth": 0,
+        "autoscale": true,
+        "canLinkExternalContent": false,
+        "scalePixels": 1024,
+        "size": 0,
+        "targetHeight": 4000,
+        "viewerUrl": "https://localhost:8080/video_component.html",
+        "zoom": false,
+        "zoomPixels": 0
+      },
+      "config": {
+        "canLinkExternalContent": false,
+        "viewerUrl": "https://localhost:8080/config.html"
+      }
+    },
+    "whitelistedConfigUrls": [],
+    "whitelistedPanelUrls": []
+  },
+  "name": "aws-hack'n'roll-t-lovers",
+  "version": 1
+}
